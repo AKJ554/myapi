@@ -1,0 +1,8 @@
+{
+"items": [
+    { "company": "Samsung", "price": 72000, "model": "S10" },
+    { "company": "Redmi", "price": 9999, "model": "Redmi note 7s" },
+    { "company": "Vivo", "price": 27000, "model": "V15" },
+    { "company": "Realme", "price": 9999, "model": "Realme 5" }
+  ]
+} 
